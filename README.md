@@ -1,13 +1,13 @@
-## Monet-Style-Transfer-with-CycleGAN
+# Monet-Style-Transfer-with-CycleGAN
 
-#Introduction:
+## Introduction:
 
 The goal of this project is to use CycleGAN, a type of Generative Adversarial Network (GAN), to
 convert original images to Monet-style paintings. This project was motivated by the desire to
 explore the capabilities of GANs in image-to-image translation tasks, as well as the potential for
 using GANs to create artwork in different styles.
 
-#Tools and Technologies:
+## Tools and Technologies:
 
 ● Jupyter Notebook
 ● Keras
@@ -17,7 +17,7 @@ using GANs to create artwork in different styles.
 ● GANS
 ● Convolution Neural Network
 
-#Methodology:
+## Methodology:
 
 To implement this project, we used the TensorFlow framework and trained the CycleGAN model
 on a dataset of paired images, consisting of original photographs and corresponding
@@ -34,7 +34,7 @@ discriminators. The objective function for the generators includes both adversar
 cycle-consistency loss, while the discriminator objective function is based solely on adversarial
 loss.
 
-#Results:
+## Results:
 
 The trained CycleGAN model was able to successfully convert original photographs to
 Monet-style paintings, producing visually pleasing and realistic results. Some of the limitations
@@ -70,7 +70,7 @@ converting low-quality medical images to high-quality images or translating imag
 between different modalities. This can be useful for improving medical diagnosis and
 treatment, as well as for medical research.
 
-#Conclusion:
+## Conclusion:
 
 CycleGAN Monet project is an example of image-to-image translation using CycleGAN. The
 project aimed to transform photos into a style that resembles the paintings of the French artist
