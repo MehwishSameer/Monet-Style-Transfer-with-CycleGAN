@@ -1,6 +1,7 @@
-# Monet-Style-Transfer-with-CycleGAN
+## Monet-Style-Transfer-with-CycleGAN
 
 Introduction:
+
 The goal of this project is to use CycleGAN, a type of Generative Adversarial Network (GAN), to
 convert original images to Monet-style paintings. This project was motivated by the desire to
 explore the capabilities of GANs in image-to-image translation tasks, as well as the potential for
